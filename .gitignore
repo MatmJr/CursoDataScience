@@ -1,2 +1,3 @@
-.venv/ 
-Semana01/Gabarito/
+venv/
+.venv/
+data/
