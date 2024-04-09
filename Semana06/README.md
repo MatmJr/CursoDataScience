@@ -8,7 +8,7 @@ Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de bo
 
 ## Acesso ao Colab
 
-O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1VFy0kbwg-H5THkWol416niDf-if4rTHD/view?usp=sharing
+O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1YMukg9sLvYMoOXNnkZII24O5-G3P6Bzn/view?usp=sharing
 
 **Atenção:** Escolha a opção **Copiar para o Drive** para começar os estudos.
 
