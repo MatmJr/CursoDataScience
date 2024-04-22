@@ -16,7 +16,7 @@ O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Go
 
 ### Instalando Dependências (**Windows**)
 
-Crie uma pasta chamada BigData, clique com o botão do lado direito e selecione a opção abrir no terminal. 
+Crie uma pasta chamada DataScience, clique com o botão do lado direito e selecione a opção abrir no terminal. 
 
 No terminal cole os comandos abaixo para a criação, ativação do ambiente virtual e instalação das dependências.
 
