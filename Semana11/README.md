@@ -1,4 +1,4 @@
-# Aula 10
+# Aula 11
 
 Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de boas práticas para garantir clareza, eficiência e facilidade de uso. Essas práticas incluem:
 
@@ -8,7 +8,8 @@ Olá! Ao iniciar um projeto em Python, é fundamental aderir a um conjunto de bo
 
 ## Acesso ao Colab
 
-O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: https://drive.google.com/file/d/1sXSHeguPzjFBVjrINNUh42gtUn4WaVyL/view?usp=sharing
+O conteúdo da aula também pode ser acessado pelo link **usando uma conta do Google**: 
+https://drive.google.com/file/d/1S9aolfKJpde4Ikj7jfzWAWVNFuV_i5Fe/view?usp=sharing
 
 **Atenção:** Escolha a opção **Copiar para o Drive** para começar os estudos.
 
